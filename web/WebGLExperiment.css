@@ -1,0 +1,10 @@
+body {
+  text-align : center;
+}
+
+.introduction {
+  text-align : right;
+  float : left;
+  font-size : 18px;
+  font-weight: bold;
+}
